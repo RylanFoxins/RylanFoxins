@@ -1,2 +1,2 @@
 ## Hey there, I'm Rylan!
-Frankly I have no idea why I am here.
+Right now, I'm **trying** to learn C#...
