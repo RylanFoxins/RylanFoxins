@@ -1,2 +1,2 @@
 ## Hey there, I'm Rylan!
-Right now, I'm **trying** to learn C#...
+I exist I think
