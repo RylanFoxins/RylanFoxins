@@ -1,6 +1,8 @@
-## Hey there, I'm [Rylan](https://guns.lol/rylanfoxins)!
-I am a semi-small content creator that is on both YouTube and TikTok. The use of this GitHub currently is very limited, but I plan on doing more with it as I go on. I'm slowly trying to learn C#, but there is no guarentee and I am mostly focusing on more important things like schoolwork. Thanks for visiting my profile!
+# Who am I?
+Hey, I'm [Rylan](https://guns.lol/rylanfoxins)! I am a medium sized content creator on both [YouTube](https://www.youtube.com/) and [TikTok](https://www.tiktok.com/). 
 
-Extra things about me: All I'm good at is README's
+# Why Am I Here?
+Since I don't have much time to learn code, I mainly focus on README's, which are all of my repositories.
 
-![Metrics](https://metrics.lecoq.io/RylanFoxins?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FNew_York)
+# My Stats:
+![Rylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rylanfoxins&show_icons=true&theme=dark)
