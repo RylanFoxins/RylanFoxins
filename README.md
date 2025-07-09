@@ -1,3 +1,6 @@
+![Rylan GitHub Picture](https://github.com/user-attachments/assets/84744556-9c9e-4733-8610-7c208b04816b)
+
+
 # Introduction
 Hey, I'm Rylan! I am a decently sized Content Creator on YouTube and TikTok. Click [here](https://linktr.ee/rylanfoxins) to see all of my social media links via Linktree.
 
